@@ -1,6 +1,6 @@
 ## # Hi, I'm Luca Paganini 👋
 
-MSc Finance student at the University of Bologna (CLAM FIM — quantitative track), with a strong interest in **Investment Banking**, **Asset Management**, and **Quantitative Finance**.
+MSc Finance student at the University of Bologna - ClamFim, with a strong interest in Finance.
 
 I build projects at the intersection of financial theory and data — using Python to apply models I actually study and care about.
 
@@ -38,9 +38,6 @@ I build projects at the intersection of financial theory and data — using Pyth
 - 💼 [LinkedIn](https://www.linkedin.com/in/luca-paganini)
 - 📧 paganinilucaf@gmail.com
 
----
-
-*Always learning. Open to internship opportunities in finance for Summer 2026.*
 
 <!--
 **luca-paganini/luca-paganini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
